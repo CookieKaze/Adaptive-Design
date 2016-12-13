@@ -1,4 +1,4 @@
-# AdaptiveDesignTest
+# Adaptive Design (With Cat)
 ###Building Layouts That Adapt to All iOS Screen Sizes and Orientations
 
 Working with adaptive design using size classes and intermediate auto layout practices. 
